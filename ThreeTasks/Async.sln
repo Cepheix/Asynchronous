@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskException", "..\TaskExc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CancellingTask", "..\CancellingTask\CancellingTask.csproj", "{F3B64856-43E3-47E4-BEDF-CBA097BD852A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContinueWithValue", "..\ContinueWithValue\ContinueWithValue.csproj", "{39FC38AE-3541-4512-B459-34042B6ECD92}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{F3B64856-43E3-47E4-BEDF-CBA097BD852A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3B64856-43E3-47E4-BEDF-CBA097BD852A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3B64856-43E3-47E4-BEDF-CBA097BD852A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39FC38AE-3541-4512-B459-34042B6ECD92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39FC38AE-3541-4512-B459-34042B6ECD92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39FC38AE-3541-4512-B459-34042B6ECD92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39FC38AE-3541-4512-B459-34042B6ECD92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
