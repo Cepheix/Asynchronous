@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContinueWithValue", "..\Con
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhenAny", "..\WhenAny\WhenAny.csproj", "{AB79E3CB-E648-4BBC-BD2D-616D19D08BE2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UIUpdate", "..\UIUpdate\UIUpdate.csproj", "{6AC09F47-BE62-4FA3-BE0B-B9424023A271}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{AB79E3CB-E648-4BBC-BD2D-616D19D08BE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB79E3CB-E648-4BBC-BD2D-616D19D08BE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB79E3CB-E648-4BBC-BD2D-616D19D08BE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AC09F47-BE62-4FA3-BE0B-B9424023A271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AC09F47-BE62-4FA3-BE0B-B9424023A271}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AC09F47-BE62-4FA3-BE0B-B9424023A271}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AC09F47-BE62-4FA3-BE0B-B9424023A271}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
